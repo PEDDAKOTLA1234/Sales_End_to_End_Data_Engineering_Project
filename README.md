@@ -142,10 +142,14 @@ The Gold Layer contains curated business-ready datasets.
 
 📷 Attach Screenshots:
 
-* Bronze Layer Storage
+
 * Silver Layer Transformations
-* Databricks Notebooks
+<img width="1317" height="224" alt="1000193921" src="https://github.com/user-attachments/assets/53e24491-e87f-41f2-8cbe-433ef01d9419" />
+<img width="1751" height="591" alt="1000193922" src="https://github.com/user-attachments/assets/ae3ba6ef-9047-483b-a2fa-7b923a84abbf" />
+
 * Gold Layer Output
+<img width="1228" height="782" alt="1000193927" src="https://github.com/user-attachments/assets/213229ac-2e38-4ec2-aace-957288a7f57d" />
+
 
 ---
 
