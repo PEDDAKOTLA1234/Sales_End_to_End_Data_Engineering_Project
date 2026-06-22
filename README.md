@@ -81,7 +81,7 @@ An Incremental Loading strategy was implemented to process only newly added or m
 
 Incremental loading minimizes processing overhead and enables efficient handling of growing datasets while reducing operational costs.
 
-📷 Attach Screenshots:
+
 
 Source SQL Database
 <img width="1894" height="649" alt="1000193913" src="https://github.com/user-attachments/assets/c9204778-50b6-4e84-8b7b-8acf5b8b0a11" />
@@ -140,7 +140,7 @@ The Gold Layer contains curated business-ready datasets.
 * Star Schema implementation.
 * Delta Lake storage.
 
-📷 Attach Screenshots:
+
 
 
 * Silver Layer Transformations
@@ -183,7 +183,7 @@ To support analytical workloads, the curated data was transformed into a dimensi
 
 Star Schema improves query performance and simplifies reporting and analytical workloads.
 
-📷 Attach Screenshots:
+
 
 * Star Schema Diagram
 <img width="1228" height="782" alt="1000193927" src="https://github.com/user-attachments/assets/fa42c099-f4d0-4a44-aabb-7ddcdb4cd0b0" />
@@ -253,39 +253,8 @@ GitHub was used for source code management and version control.
 * Collaboration.
 * Version management.
 
-📷 Attach Screenshots:
 
-* GitHub Repository
-* Project Structure
 
----
-
-# Skills Demonstrated
-
-### Azure Services
-
-* Azure Data Factory
-* Azure Data Lake Storage Gen2
-* Azure Databricks
-* Azure Key Vault
-* Microsoft Entra ID
-
-### Data Engineering Concepts
-
-* Incremental Loading
-* Medallion Architecture
-* One Big Table (OBT)
-* Star Schema
-* Dimensional Modeling
-* Delta Lake
-* Data Warehousing
-* ETL/ELT Pipelines
-
-### Programming
-
-* Python
-* PySpark
-* SQL
 
 ---
 
