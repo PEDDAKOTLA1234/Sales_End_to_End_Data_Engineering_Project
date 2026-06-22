@@ -83,10 +83,17 @@ Incremental loading minimizes processing overhead and enables efficient handling
 
 📷 Attach Screenshots:
 
-* Source SQL Database
-* Azure Data Factory Pipeline
-* Incremental Load Logic
-* Pipeline Execution Results
+Source SQL Database
+<img width="1894" height="649" alt="1000193913" src="https://github.com/user-attachments/assets/c9204778-50b6-4e84-8b7b-8acf5b8b0a11" />
+
+<img width="1668" height="953" alt="image" src="https://github.com/user-attachments/assets/f34e955c-3960-4393-a029-3c5747053a44" />
+
+Azure Data Factory Pipeline
+<img width="1905" height="591" alt="1000193915" src="https://github.com/user-attachments/assets/4fd13f5e-30cd-4a53-9fef-e056c8eaa0b8" />
+
+Pipeline Execution Results
+<img width="1150" height="519" alt="1000193920" src="https://github.com/user-attachments/assets/4a331c66-a780-47b2-932d-019c7353625a" />
+
 
 ---
 
