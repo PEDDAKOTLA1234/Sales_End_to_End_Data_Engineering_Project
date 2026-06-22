@@ -148,7 +148,11 @@ The Gold Layer contains curated business-ready datasets.
 <img width="1751" height="591" alt="1000193922" src="https://github.com/user-attachments/assets/ae3ba6ef-9047-483b-a2fa-7b923a84abbf" />
 
 * Gold Layer Output
-<img width="1228" height="782" alt="1000193927" src="https://github.com/user-attachments/assets/213229ac-2e38-4ec2-aace-957288a7f57d" />
+<img width="1442" height="320" alt="1000193926" src="https://github.com/user-attachments/assets/fe0a3e0a-203a-4e58-ab07-c6026d81ca6f" />
+<img width="1146" height="485" alt="1000193928" src="https://github.com/user-attachments/assets/c39ad61a-da2a-4a66-98e8-6453ac2eca95" />
+<img width="1414" height="355" alt="1000193929" src="https://github.com/user-attachments/assets/4b082616-a7f7-427a-994f-526e1e84da04" />
+
+
 
 
 ---
@@ -182,8 +186,15 @@ Star Schema improves query performance and simplifies reporting and analytical w
 📷 Attach Screenshots:
 
 * Star Schema Diagram
+<img width="1228" height="782" alt="1000193927" src="https://github.com/user-attachments/assets/fa42c099-f4d0-4a44-aabb-7ddcdb4cd0b0" />
+
+<img width="1444" height="532" alt="1000193930 (1)" src="https://github.com/user-attachments/assets/c7c03897-5a0c-4803-a0b8-e2a3beae9f7d" />
+
 * Fact Table
-* Dimension Tables
+<img width="1348" height="895" alt="1000193931" src="https://github.com/user-attachments/assets/106c47b9-3683-48ae-b44a-6aabf9186435" />
+
+<img width="1564" height="855" alt="1000193932 (1)" src="https://github.com/user-attachments/assets/9aae3f2e-5f5b-422e-bb56-1f8029a8e16e" />
+
 
 ---
 
